@@ -30,6 +30,11 @@ Install the required packages:
 ```sh
 pip install colorama
 ```
+
+```sh
+python orginal.py
+```
+
 ## How It Works
 The HeatCalculator class contains methods to perform various calculations:
 
