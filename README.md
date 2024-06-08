@@ -39,12 +39,12 @@ python orginal.py
 ## How It Works
 The HeatCalculator class contains methods to perform various calculations:
 
-- **calculate_c(Q, m, delta_T): Calculates heat capacity.
-- **calculate_Q(c, m, delta_T): Calculates heat energy.
-- **calculate_m(Q, c, delta_T): Calculates mass.
-- **calculate_delta_T(Q, c, m): Calculates temperature change.
-- **calculate_T2(Q, m, c, T1): Calculates the final temperature.
-- **The run method initiates the program, clearing the console and displaying introductory information.
+- **calculate_c(Q, m, delta_T):** Calculates heat capacity.
+- **calculate_Q(c, m, delta_T):** Calculates heat energy.
+- **calculate_m(Q, c, delta_T):** Calculates mass.
+- **calculate_delta_T(Q, c, m):** Calculates temperature change.
+- **calculate_T2(Q, m, c, T1):** Calculates the final temperature.
+- The run method initiates the program, clearing the console and displaying introductory information.
 
 ## Contributing
 We welcome contributions! Please fork the repository and submit a pull request with your improvements.
