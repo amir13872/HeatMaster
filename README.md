@@ -31,7 +31,7 @@ Install the required packages:
 pip install colorama
 ```
 
-Python run
+Python run:
 ```sh
 python orginal.py
 ```
