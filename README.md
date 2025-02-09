@@ -19,7 +19,7 @@ This program is developed in Python and uses the `colorama` library for colored 
 ## Installation
 Clone the repository:
 ```sh
-git clone https://github.com/yourusername/heatmaster.git
+git clone https://github.com/amir13872/heatmaster.git
 ```
 Navigate to the project directory:
 
