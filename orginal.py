@@ -3,6 +3,13 @@ from colorama import Fore
 import time
 os.system('cls')
 os.system("color 0b")
+print('''
+╔╗─╔╗─────╔╗─╔═╗╔═╗─────╔╗
+║║─║║────╔╝╚╗║║╚╝║║────╔╝╚╗
+║╚═╝╠══╦═╩╗╔╝║╔╗╔╗╠══╦═╩╗╔╬══╦═╗
+║╔═╗║║═╣╔╗║║─║║║║║║╔╗║══╣║║║═╣╔╝
+║║─║║║═╣╔╗║╚╗║║║║║║╔╗╠══║╚╣║═╣║
+╚╝─╚╩══╩╝╚╩═╝╚╝╚╝╚╩╝╚╩══╩═╩══╩╝''')
 print('''In the name of God, the Most Gracious, the Most Merciful
 I, Amir Mahdi Zare, a 10th grade math student at Dr. Mehdi Torkzadeh High School,
 am honored to present this program for calculating heat, heat capacity, and specific heat
